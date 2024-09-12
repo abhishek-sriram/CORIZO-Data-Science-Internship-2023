@@ -1,4 +1,4 @@
-# Corizo Internship 
+# Corizo Data Science Internship 
 
 ## Internship Overview
 
@@ -90,3 +90,11 @@ The Wine Quality Analysis project focused on building a classification model to 
 ---
 
 This internship gave me valuable insights into the practical application of machine learning and data science concepts. The experience significantly enhanced my ability to build models for both prediction and classification tasks, which I will carry forward in my future projects.
+
+---
+
+## Certificate
+To verify the certificate, click the image below.
+
+<p align="middle">
+  <a href="https://cert.diceid.com/cid/1pQw4qkiRC"><img src="https://github.com/abhishek-sriram/Corizo-Data-Science-Internship/blob/main/Certificates/Certificate.jpg"></a>
