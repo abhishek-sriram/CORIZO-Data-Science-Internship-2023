@@ -94,7 +94,7 @@ This internship gave me valuable insights into the practical application of mach
 ---
 
 ## Certificate
-The CORIZO Data Science Internship certificate is shown below.
+My CORIZO Data Science Internship certificate is shown below.
 
 <p align="middle">
   <a href="https://cert.diceid.com/cid/1pQw4qkiRC"><img src="https://github.com/abhishek-sriram/Corizo-Data-Science-Internship/blob/main/Certificates/Certificate.jpg"></a>
