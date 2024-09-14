@@ -1,4 +1,4 @@
-# Corizo Data Science Internship 
+# CORIZO Data Science Internship 
 
 ## Internship Overview
 
