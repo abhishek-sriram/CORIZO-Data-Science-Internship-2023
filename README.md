@@ -2,7 +2,7 @@
 
 ## Internship Overview
 
-During my internship at **Corizo**, I worked on two data-driven projects: **Stock Price Prediction** and **Wine Quality Analysis**. The internship provided hands-on experience in data analysis, feature engineering, model building, and prediction using various machine learning algorithms. This README outlines the details of the projects and the methodologies used.
+During my internship at **CORIZO**, I worked on two data-driven projects: **Stock Price Prediction** and **Wine Quality Analysis**. The internship provided hands-on experience in data analysis, feature engineering, model building, and prediction using various machine learning algorithms. This README outlines the details of the projects and the methodologies used.
 
 ---
 
@@ -94,7 +94,7 @@ This internship gave me valuable insights into the practical application of mach
 ---
 
 ## Certificate
-The Corizo Data Science Internship certificate is shown below.
+The CORIZO Data Science Internship certificate is shown below.
 
 <p align="middle">
   <a href="https://cert.diceid.com/cid/1pQw4qkiRC"><img src="https://github.com/abhishek-sriram/Corizo-Data-Science-Internship/blob/main/Certificates/Certificate.jpg"></a>
